@@ -1,4 +1,6 @@
 # ApiPhoenix
+### Status
+[![Build Status](https://travis-ci.org/joegotflow83/phoenix_apis.png)](https://travis-ci.org/joegotflow83/phoenix_apis)
 
 To start your Phoenix app:
 

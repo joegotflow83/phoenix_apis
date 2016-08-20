@@ -7,5 +7,7 @@ defmodule ApiPhoenix.Router do
 
   scope "/api", ApiPhoenix do
     pipe_through :api
+
+    get "/movies", MovieController, :index
   end
 end
